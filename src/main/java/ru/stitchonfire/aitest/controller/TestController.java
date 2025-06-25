@@ -22,7 +22,7 @@ public class TestController {
 
     @PostMapping("send")
     public ResponseEntity<AnnouncementDataDto> test(@RequestBody AnnouncementRequestDto request) {
-        return ResponseEntity.ok(testService.getTestResponse(request));
+        return ResponseEntity.ok(testService.getAiResponse(request));
     }
 
 }

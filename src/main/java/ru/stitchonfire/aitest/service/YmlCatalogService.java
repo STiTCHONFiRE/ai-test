@@ -33,7 +33,7 @@ public class YmlCatalogService {
 
         Thread.ofVirtual().start(() ->
                 result.stream().limit(3).forEach(announcement -> {
-                    var res = getTestResponse(new AnnouncementRequestDto(announcement.getTitle(), announcement.getDescription()));
+                    var res = getAiResponse(new AnnouncementRequestDto(announcement.getTitle(), announcement.getDescription()));
                     System.out.println("AI Response: " + res.toString() + "\n" + "name: " + announcement.getTitle());
                     try {
                         Thread.sleep(Duration.ofSeconds(10));
@@ -44,7 +44,7 @@ public class YmlCatalogService {
         );
     }
 
-    public AnnouncementDataDto getTestResponse(AnnouncementRequestDto dto) {
+    public AnnouncementDataDto getAiResponse(AnnouncementRequestDto dto) {
         String raw = chatClient.prompt("""
                          Ты модератор онлайн-магазина. Пользователь, похоже, плохо заполняет название товара, нужно привести его в порядок!
                          Проанализируй название и описание объявления, извлеки из них все ключевые данные о товаре и верни их в лаконичном формате:
