@@ -1,6 +1,6 @@
 package ru.stitchonfire.aitest.dto;
 
-public record TestRequestDto(
+public record AnnouncementRequestDto(
         String name,
         String description
 ) {

@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import ru.stitchonfire.aitest.dto.TestRequestDto;
-import ru.stitchonfire.aitest.dto.TestResponseDto;
-import ru.stitchonfire.aitest.service.TestService;
+import ru.stitchonfire.aitest.dto.AnnouncementRequestDto;
+import ru.stitchonfire.aitest.dto.AnnouncementDataDto;
+import ru.stitchonfire.aitest.service.YmlCatalogService;
 
 @RestController
 @RequiredArgsConstructor
@@ -18,10 +18,10 @@ import ru.stitchonfire.aitest.service.TestService;
 @FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)
 public class TestController {
 
-    TestService testService;
+    YmlCatalogService testService;
 
     @PostMapping("send")
-    public ResponseEntity<TestResponseDto> test(@RequestBody TestRequestDto request) {
+    public ResponseEntity<AnnouncementDataDto> test(@RequestBody AnnouncementRequestDto request) {
         return ResponseEntity.ok(testService.getTestResponse(request));
     }
 

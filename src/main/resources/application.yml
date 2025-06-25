@@ -9,7 +9,7 @@ spring:
   ai:
     ollama:
       chat:
-        model: qwen3:1.7b
+        model: qwen3:4b
   jpa:
     hibernate:
       ddl-auto: validate
