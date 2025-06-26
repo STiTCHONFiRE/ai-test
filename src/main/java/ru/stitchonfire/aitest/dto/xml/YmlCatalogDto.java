@@ -4,6 +4,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.fasterxml.jackson.dataformat.xml.annotation.*;
 import lombok.Builder;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 
@@ -72,7 +73,7 @@ public record YmlCatalogDto(
             String vendor,
             String vendorCode,
             String url,
-            int price,
+            BigDecimal price,
 
             String currencyId,
             int categoryId,
