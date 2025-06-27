@@ -56,7 +56,7 @@ public class YmlCatalogService {
                 .addModule(xmlModule)
                 .serializationInclusion(JsonInclude.Include.NON_NULL)
                 .serializationInclusion(JsonInclude.Include.NON_EMPTY)
-                .enable(SerializationFeature.INDENT_OUTPUT)   // красиво форматируем
+                .enable(SerializationFeature.INDENT_OUTPUT)
                 .build();
     }
 
@@ -163,8 +163,6 @@ public class YmlCatalogService {
                 .call()
                 .content();
 
-//        System.out.println("Raw response: " + raw);
-
         try {
             assert raw != null;
             return extractJson(raw, AnnouncementDataDto.class, new ObjectMapper());
@@ -179,6 +177,7 @@ public class YmlCatalogService {
         if (start == -1 || end == -1 || start >= end) {
             throw new IOException("Valid JSON object not found in LLM output");
         }
+
         String json = raw.substring(start, end + 1);
         return mapper.readValue(json, clazz);
     }

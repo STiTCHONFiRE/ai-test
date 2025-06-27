@@ -1,0 +1,2959 @@
+<yml_catalog date="2025-06-26T18:19:49.497145900Z">
+  <shop>
+    <name>Bamen</name>
+    <company>Bamen</company>
+    <url>https://bamen.ru</url>
+    <categories>
+      <category id="127">Расходники</category>
+      <category id="133">Музыкальные инструменты</category>
+      <category id="123">Компьютеры и ноутбуки</category>
+      <category id="124">Оргтехника</category>
+      <category id="125">Комплектующие</category>
+      <category id="126">Телефоны и гаджеты</category>
+      <category id="87">Запчасти и аксессуары</category>
+      <category id="88">Шины</category>
+      <category id="90">Диски</category>
+      <category id="91">Колёса</category>
+      <category id="120">Для дома</category>
+      <category id="121">Аудио и видео</category>
+      <category id="122">Игры и приставки</category>
+      <category id="104">Товары для кухни</category>
+    </categories>
+    <offers>
+      <offer id="5365">
+        <name>Подкладка Д65</name>
+        <vendor>null</vendor>
+        <vendorCode>Д65</vendorCode>
+        <price>200000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Москва
+Подкладка Д65 резерв
+
+Подкладка д50 (6,2кг) бу
+Подкладка д65 (7,66кг) бу
+Комплект скреплений кб65 на шпалу жб ш1: 4 закладных болта в сборе+ 4 клеммных болта в сборе с клеммой пк + 2 кб65 + 2 цп328 + 2 цп143 бу
+Подкладка ск50 (8,3кг) бу
+Подкладкка сд50 (6,5кг)
+Подкладка ск50 (8,3кг)
+Подкладка кб50 (6,85 кг)]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1342">
+        <name>Фильтр масляный Bobcat 960698</name>
+        <vendor>Bobcat</vendor>
+        <vendorCode>960698</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Фильтр масляный Bobcat 960698, 960698N
+
+В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="14354">
+        <name>Лебедка грузовая КБ 403 КБ 408 КБ 401</name>
+        <vendor>null</vendor>
+        <price>450000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Продается Лебёдка грузовая в сборе
+КБ 403 КБ 408 КБ 401 ]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1220">
+        <name>Датчик давления масла CAT 296-8060</name>
+        <vendor>CAT</vendor>
+        <vendorCode>296-8060</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Датчик давления масла CAT 296-8060
+В наличии в Екатеринбурге.
+
+ 
+
+Аналоговые номера: 303-3357"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="249">
+        <name>Водяная Помпа Water pump D61PX</name>
+        <vendor>Water pump</vendor>
+        <vendorCode>6743-61-1530</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Водяная Помпа Water pump D61PX, WA380-3, WA380-5, WA430-6, PC350HD-8, PC350LL-7EO, PC300LC-7L, PC300LC-8, PC300HD-7L, PC300HD-8, SAA6D114E
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="333">
+        <name>Набор О-колец Giant Kobelco 447 шт.</name>
+        <vendor>Kobelco</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Набор О-колец Giant O-ring Kit Kobelco
+ 
+ Количество колец в наборе 447 шт."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1707">
+        <name>Гидроцилиндр NOK 225-4625</name>
+        <vendor>NOK</vendor>
+        <vendorCode>225-4625</vendorCode>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Р/к гидроцилиндра стрелы NOK 225-4625 (333-8750).
+Цены уточняйте у наших менеджер.
+В наличии и на заказ, возможна доставка в регионы."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1112">
+        <name>Ремкомплект г/ц рукояти CAT E320 350-0970</name>
+        <vendor>CAT</vendor>
+        <vendorCode>350-0970</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц рукояти CAT E320 350-0970
+Оригинал. В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1467">
+        <name>Стопорное кольцо 16206731</name>
+        <vendor>null</vendor>
+        <vendorCode>16206731</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Стопорное кольцо 16206731, в наличии, в Екатеринбурге.
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1709">
+        <name>Челюсть ковша NOK 827020113</name>
+        <vendor>NOK</vendor>
+        <vendorCode>827020113</vendorCode>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Р/к г/ц челюсти ковша NOK 827020113.
+Цены уточняйте у наших менеджер.
+В наличии и на заказ, возможна доставка в регионы."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="478">
+        <name>Стекло лобовое нижнее (триплекс) HITACHI ZAXIS-5G</name>
+        <vendor>HITACHI</vendor>
+        <vendorCode>4651654</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Стекло лобовое нижнее (триплекс) 4651654 HITACHI серия ZAXIS-5G
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="619">
+        <name>Ремкомплект г/ц наклона ковша 707-99-62120 Komatsu WA320-5</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>707-99-62120</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем ремкомплект г/ц наклона ковша 707-99-62120 на Komatsu WA320-5
+
+Аналог. Япония. В наличии
+
+Основные атрибуты
+Тип техники Землеройная техника
+Производитель   Komatsu
+Страна производитель Япония
+Код запчасти 707-99-62120"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="21043">
+        <name>Ремонт фургонов НОРД-АВТО+</name>
+        <vendor>НОРД-АВТО+</vendor>
+        <price>40000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Предприятие НОРД-АВТО+ произведет ремонт или замену любого элемента термофургона.]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="723">
+        <name>Ремкомплект гидромотора поворота 2401-9309KT Doosan S330LC-V, S340LC-7</name>
+        <vendor>Doosan</vendor>
+        <vendorCode>2401-9309KT</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект гидромотора поворота 2401-9309KT для спецтехники Doosan:
+
+ 
+
+S330LC-V, S340LC-7, S340LC-V, S400LC-V, S420LC-V
+
+АНАЛОГ. Япония. в наличии
+
+Основные атрибуты
+Тип техники	Землеройная техника
+Производитель  	Doosan
+Страна производитель	Южная Корея
+Код запчасти	2401-9309KT"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1022">
+        <name>Ремкомплект г/ц стрелы 14589139 на Volvo EC360BLC</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>14589139</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект гидроцилиндра стрелы 14589139 на Volvo EC360BLC
+
+Оригинал. 
+
+Каталожный номер: VOE 14589139 , VOE14589139 , 14589139
+
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="467">
+        <name>Стекло двери нижнее (триплекс) 71N6-02720 Hyundai R140-R500 серия 7 и 7A</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>71N6-02720</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Стекло двери нижнее (триплекс) 71N6-02720 Hyundai R140-R500 серия 7 и 7A
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="616">
+        <name>Ремкомплект г/ц стрелы 707-99-58080 на Komatsu PC300-7</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>707-99-58080</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц стрелы 707-99-58080 на Komatsu PC300-7
+
+Аналог. Япония. В наличии
+
+Основные атрибуты
+Тип техники Землеройная техника
+Производитель   Komatsu
+Страна производитель Япония
+Код запчасти 707-99-58080"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="848">
+        <name>Ремкомплект г/ц рукояти 4654422 на Hitachi ZX200-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4654422</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц рукояти 4654422 на Hitachi ZX200-3
+
+
+Аналоги: 4661594, YA00001400
+
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX200-3:
+Ремкомплект г/ц стрелы 4661485
+Ремкомплект г/ц рукояти 4654422
+Ремкомплект г/ц ковша 1102306
+
+Аналог. Япония. В наличии.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="7797">
+        <name>Прокладка ЖБР ЦП538 (ЦП 204)</name>
+        <vendor>null</vendor>
+        <vendorCode>ЦП538</vendorCode>
+        <price>65.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Москва
+Прокладка ЖБР ЦП538 (ЦП 204)
+
+Регулировочный изолятор арс-04.07.006-10 (толщина 10мм) 
+Регулировочный изолятор арс-04.07.006-05 (толщина 5мм)
+Прокладка цп204 арс старого образца]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="16432">
+        <name>Усилитель Бриг 001</name>
+        <vendor>Brig</vendor>
+        <price>16500.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>121</categoryId>
+        <description><![CDATA[Первая ревизия , в рабочем состоянии , каналы работают исправно. Есть схема , инструкция. Макинтош. Пересылаю транспортной компанией СДЭК , деловые линии.]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="291">
+        <name>Измеритель уровня топлива 31N6-02100 Hyundai</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>31N6-02100</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Измеритель уровня топлива 31N6-02100 Hyundai.
+ 
+ Длина по центрам отверстий 170 мм.
+ 
+ Применяемость:
+ Hyundai R140LC-7
+ Hyundai R160LC-7
+ Hyundai R170W-7
+ Hyundai R180LC-7
+ Hyundai R200W-7
+ Hyundai R210LC-7
+ Hyundai R210NLC-7
+ Hyundai R250LC-7
+ Hyundai R290LC-7
+ Hyundai R290LC-7H
+ Hyundai R305LC-7
+ Hyundai R320LC-7
+ Hyundai R360LC-7
+ Hyundai R450LC-7
+ 
+ В наличии на складе."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1442">
+        <name>Крыльчатка вентилятора 15610485</name>
+        <vendor>null</vendor>
+        <vendorCode>15610485</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Крыльчатка вентилятора 15610485 для моделей Volvo BL.
+В наличии и под заказ
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="631">
+        <name>Ремкомплект г/ц стрелы 707-99-67870 на Komatsu PC400-7</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>707-99-67870</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц стрелы 707-99-67870 на Komatsu PC400-7 PC400-8
+
+Аналог, Япония. В наличии
+
+Основные атрибуты
+Тип техники Землеройная техника
+Производитель   Komatsu
+Страна производитель Япония
+Код запчасти 707-99-67870"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="855">
+        <name>Ремкомплект г/ц стрелы 9180582 на Hitachi ZX450</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>9180582</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц стрелы 9180582 на Hitachi ZX450
+
+
+Аналоги: 9173711
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX450:
+Ремкомплект г/ц стрелы 9180582
+Ремкомплект г/ц рукояти 4340621
+Ремкомплект г/ц ковша 4391705
+
+Аналог. Япония. В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1328">
+        <name>Фильтр воздушный в сборе Hitachi ZX-330, ZX-330-3, ZX-330LC-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4459549, 4459548</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Фильтр воздушный
+
+FOA-7279, 4459549, 
+142-1339, 11110022, 
+RS3744, AF25437, AF25756, 
+CV20948, P53-7876, 
+P77-7409, P77-7279
+
+Hitachi ZX-330, ZX-330-3,
+ZX-330LC-3, ZX-350-3,
+ZX-370-3, ZX-330-5G,
+ZX-400-3, ZX850LCBE-3,
+ZX370MTH, ZX870HLD-3,
+ZX400LCH-3"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="461">
+        <name>Стекло кабины левое за дверью (триплекс) 71Q6-02721 Hyundai R140-R500 серия 9S</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>71Q6-02721</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Стекло кабины левое за дверью (триплекс) 71Q6-02721 Hyundai R140-R500 серия 9S
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="8872">
+        <name>Накладка 1р18 (3,2кг) литая в городе Красноярск</name>
+        <vendor>null</vendor>
+        <vendorCode>1р18</vendorCode>
+        <price>705.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Красноярск
+Накладка 1р18 (3,2кг) литая
+
+Накладка переходная р65/р50 (38кг) литая
+Накладка 1р65 фрезерованная бу
+Накладка 2р65 (23,78 кг)
+Накладка 2р43 (8,603кг) литая
+Накладка 1р50 (18,77 кг) бу
+Накладка 2р65 (23,78 кг) бу
+Накладка переходная р50/р43 (38 кг)]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1439">
+        <name>Датчик температуры ОЖ 20924084</name>
+        <vendor>null</vendor>
+        <vendorCode>20924084</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Датчик температуры ОЖ 20924084, в наличии, в Екатеринбурге.
+
+Номера аналогов:
+
+20924086, 20405787, 20543720, 16614192, 04194047"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1718">
+        <name>Р/к основного насоса NOK XJBN-01108</name>
+        <vendor>NOK</vendor>
+        <vendorCode>XJBN-01108</vendorCode>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Р/к основного насоса NOK XJBN-01108.
+Цены уточняйте у наших менеджер.
+В наличии и на заказ, возможна доставка в регионы."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1125">
+        <name>Ремкомплект гидроцилиндра 125x80</name>
+        <vendor>null</vendor>
+        <vendorCode>125x80</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[ГЦ 125.80 подъем стрелы, опора ЭО-3322, ЕК18-16, ЕК18-16 ГЦ (125х80)/1 подъем стрелы, опора ЕК-18-40 ГЦ (125х80) (125.80/1 ЕП) складывание, подъем стрелы, подъем ковша, опора ЕК12-20, ЕК-18, ЕТ-14, ЕТ-18 ГЦ (125.80х400.11) (125.80/1 ЕП) опора №2, рукоять ЕК-14, ЭО-3323А ГЦ (125.80х1000.11) подъем стрелы, опора ЭО-3322Б, ЭО-3326 ГЦ (125.80х1000.11) (125.80/1 ЕП) подъем стрелы, ковша, опора ЕW-25М1, ЭО-3323А, ЭО-3326
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1403">
+        <name>Шкворень верхний CARRARO 128880</name>
+        <vendor>CARRARO</vendor>
+        <vendorCode>128880</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Шкворень верхний (под втулку, 3 болта, масленка сбоку) 128880 CARRARO
+На складе в Екатеринбурге. 
+
+Номера-замены:
+
+11709445
+CA0128880
+82850291
+6190565M1
+9968023
+82850291"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="885">
+        <name>Ремкомплект г/ц ковша 4649751 на Hitachi ZX270-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4649751</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц ковша 4649751 на Hitachi ZX270-3
+
+Аналоги: YA00001452, YA00010735
+
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX270-3:
+
+Ремкомплект г/ц стрелы 4649745
+Ремкомплект г/ц рукояти 4649752
+Ремкомплект г/ц ковша 4649751
+
+Оригинал. В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="950">
+        <name>Ремкомплект г/ц рукояти 31Y1-19080 на R320LC-7</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>31Y1-19080</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект гидроцилиндра рукояти 31Y1-19080 на Hyundai R320LC-7
+
+Оригинал. 
+
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="7937">
+        <name>Подкладка КБ65 (6,85кг)</name>
+        <vendor>null</vendor>
+        <price>85000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Омск
+Подкладка КБ65 (6,85кг) бу
+
+Подкладка д50 (6,2кг) бу
+Подкладка кд65 (9,6 кг)
+Подкладка ск50 (8,3кг)
+Подкладка ск50 (8,3кг) литая]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1080">
+        <name>Ремкомплект г/ц стрелы CAT 325D</name>
+        <vendor>CAT</vendor>
+        <vendorCode>266-8015</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц стрелы CAT 325D 325D L 266-8015
+Аналог. Япония. В наличии.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="20431">
+        <name>Транспортер наклонной камеры John Deere AH224926/AH217633/AH220517</name>
+        <vendor>John Deere</vendor>
+        <vendorCode>AH224926/AH217633/AH220517</vendorCode>
+        <price>91914.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Бренд: John Deere
+
+Наименование товара: Транспортер наклонной камеры
+
+Артикул: AH224926/AH217633/AH220517
+
+Подходит для техники:
+9660 STS
+
+Аналог российского производства не уступающий по качеству оригиналу]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="2351">
+        <name>Дрова береза колотая в укладку</name>
+        <vendor>null</vendor>
+        <price>2500.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>120</categoryId>
+        <description><![CDATA[Дрова колотая береза в укладку с доставкой по Санкт-Петербургу и Ленинградской области. Доставляем каждый день без выходных в удобное для вас время. Дрова естественной влажности. Заказать дрова можно в день обращения.]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1081">
+        <name>Ремкомплект г/ц рукояти CAT 325D 325DL 266-8016</name>
+        <vendor>CAT</vendor>
+        <vendorCode>266-8016</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц рукояти CAT 325D 325DL 266-8016
+Аналог. Япония. В наличии.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1092">
+        <name>Ремкомплект г/ц рукояти CAT E320CLRR</name>
+        <vendor>CAT</vendor>
+        <vendorCode>215-9985</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц рукояти CAT E320CLRR 215-9985
+Оригинал. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="843">
+        <name>Ремкомплект г/ц стрелы 4650419 на Hitachi ZX240-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4650419</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц стрелы 4650419 на Hitachi ZX240-3
+
+
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX240-3:
+
+Ремкомплект г/ц стрелы 4650419
+Ремкомплект г/ц рукояти 4649050
+Ремкомплект г/ц ковша 4650433
+
+Аналог. Япония. В наличии.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="329">
+        <name>Набор о-колец D-ring kit CATERPILLAR</name>
+        <vendor>CATERPILLAR</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Набор о-колец D-ring kit CATERPILLAR
+ 
+ Количество колец в наборе 80 шт."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1263">
+        <name>Палец Volvo для экскаваторов-погрузчиков BL60</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>11883029</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Палец 11883029
+Данные изделия применяются для соединений подвижных элементов рабочего оборудования на экскаваторах-погрузчиках Volvo. Настоятельно рекомендуем связаться с нашими менеджерами и подобрать нужную Вам деталь через проверку по каталогам запасных частей. 
+
+Применение: экскаваторы-погрузчики BL60, BL60B, BL61, BL61B, BL61PLUS, BL70, BL70B, BL71, BL71B, BL71PLUS Volvo (Вольво)"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1088">
+        <name>Ремкомплект г/ц рукояти CAT 118-4131</name>
+        <vendor>CAT</vendor>
+        <vendorCode>118-4131</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц рукояти
+Оригинал. В наличии
+
+CAT 315B L, 317B LN, 318B, 320B, M320 118-4131"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1106">
+        <name>Ремкомплект г/ц рукояти CAT 259-0775</name>
+        <vendor>CAT</vendor>
+        <vendorCode>259-0775</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц рукояти CAT  259-0775
+Оригинал. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1343">
+        <name>Фильтр масляный Case 3214797R1</name>
+        <vendor>Case</vendor>
+        <vendorCode>3214797R1</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Фильтр масляный Case 3214797R1
+
+В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1722">
+        <name>Р/к гидромотора хода NOK XJDD-00685</name>
+        <vendor>NOK</vendor>
+        <vendorCode>XJDD-00685</vendorCode>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Р/к гидромотора хода NOK XJDD-00685.
+Цены уточняйте у наших менеджер.
+В наличии и на заказ, возможна доставка в регионы."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1082">
+        <name>Ремкомплект г/ц ковша CAT 325D 325DL</name>
+        <vendor>CAT</vendor>
+        <vendorCode>266-8045</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц ковша CAT 325D 325DL 266-8045
+Аналог. Япония. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1267">
+        <name>Палец Volvo 11888280</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>11888280</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Палец 11888280
+Данные изделия применяются для соединений подвижных элементов рабочего оборудования на экскаваторах-погрузчиках Volvo. Настоятельно рекомендуем связаться с нашими менеджерами и подобрать нужную Вам деталь через проверку по каталогам запасных частей. 
+
+Применение: экскаваторы-погрузчики BL60, BL60B, BL61, BL61B, BL61PLUS, BL70, BL70B, BL71, BL71B, BL71PLUS Volvo (Вольво)"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="917">
+        <name>Ремкомплект г/ц ковша 31Y1-19090 на Hyundai R320LC-7</name>
+        <vendor>NOK</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц ковша 31Y1-19090 на Hyundai R320LC-7
+
+Аналог. Япония.
+
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="826">
+        <name>Ремкомплект гидрораспределителя Hitachi ZX330-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4S00736</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект гидрораспределителя  4S00736
+Hitachi ZX330-3
+
+Аналог. Япония. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1464">
+        <name>Радиатор отопителя Volvo 9200816, 1623588, 1587964</name>
+        <vendor>Volvo</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Радиатор отопителя Volvo 
+
+Аналоговые номера 9200816, 1623588, 1587964, SG5963, ЦБ07991, SG05963, VL6028 , 1623588,9200816,1587964,VL6028
+
+Применяется на моделях 
+
+A25D, A25E, A30D, A30E
+A35D, A35E, A40D, A40E
+EL70, EL70C, L50B, L50C
+L50D, L50E, L60E, L70B
+L70C, L70D, L70E, L90B
+L90C, L90D, L90E, L110E
+L120B, L120C, L120D, L120E
+L150, L150C, L150D, L150E
+L180CO, L180HL, L180C, L180D
+L180E, L220D, L220E, L330C
+L330D, L330E, T450D
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1171">
+        <name>Стартер Volvo 22851149</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>22851149</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Продается Стартер Volvo 22851149. Стартеры и генераторы на все виды дорожно-строительной техники. Широкий ассортимент в наличии на складе. Цены уточняйте у менеджеров.
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1336">
+        <name>Фильтр гидравлический New Holland 85802793</name>
+        <vendor>New Holland</vendor>
+        <vendorCode>85802793</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Фильтр гидравлический New Holland 85802793, 9821388, 73154094, 87588813, 87707945, 87682681, 84324774,
+
+В наличии.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1405">
+        <name>Даукон 17M-27-00100</name>
+        <vendor>Даукон</vendor>
+        <vendorCode>17M-27-00100</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Даукон 17M-27-00100, в наличии, в Екатеринбурге.
+
+Номера аналогов:
+
+17M-27-00100
+17M-27-00101
+17M-27-00110
+17M-27-00111
+17M-27-00121
+17M-27-00180
+17M-27-12250
+17M-27-12251
+180-27-00100
+208-27-00140
+208-27-00210
+287-33-00010
+287-33-11910
+421-33-00021
+421-33-00040
+425-33-00111
+425-33-00120
+425-33-11650"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1448">
+        <name>Прокладка впускного коллектора 20555515</name>
+        <vendor>null</vendor>
+        <vendorCode>20555515</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Прокладка впускного коллектора 20555515, в наличии, в Екатеринбурге.
+
+Номера аналогов.
+
+20496556, 21815244, 04258725"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1449">
+        <name>Прокладка впускного коллектора ZM2900354</name>
+        <vendor>null</vendor>
+        <vendorCode>20557208</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Прокладка впускного коллектора 20557208, в наличии, в Екатеринбурге.
+
+Номера аналогов.
+
+ZM2900354, 2900354, 04283299"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1452">
+        <name>Прокладка ГБЦ (1,2 мм, 1 отвертие) 20882841</name>
+        <vendor>null</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Прокладка ГБЦ (1,2 мм, 1 отвертие) 20882841, в наличии, в Екатеринбурге.
+
+Номера аналогов.
+
+04289408"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1413">
+        <name>Радиатор водяной, масляный Komatsu 42N-03-11780</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>42N-03-11780</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Радиатор 42N-03-11780  Komatsu
+
+42N-03-11780 
+Применяется на Экскаваторах-погрузчиках KOMATSU серии WB
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1726">
+        <name>Р/к гидромотора поворота NOK XKAH-00616</name>
+        <vendor>NOK</vendor>
+        <vendorCode>XKAH-00616</vendorCode>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Р/к гидромотора поворота NOK XKAH-00616.
+Цены уточняйте у наших менеджер.
+В наличии и на заказ, возможна доставка в регионы."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="244">
+        <name>Вкладыши коренные Cummins 6742-01-5233-CU</name>
+        <vendor>Cummins</vendor>
+        <vendorCode>6742-01-5233-CU</vendorCode>
+        <price>100.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Вкладыши коренные Cummins 6742-01-5233-CU
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1443">
+        <name>Маслоохладитель 20715675</name>
+        <vendor>null</vendor>
+        <vendorCode>20715675</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Маслоохладитель 20715675, в наличии, в Екатеринбурге.
+
+Номера аналогов.
+
+20405750, 04288125"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="930">
+        <name>Ремкомплект г/ц стрелы 31Y1-34080 Hyundai R800LC-7</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>31Y1-34080</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц стрелы 31Y1-34080 Hyundai R800LC-7A
+
+Аналог. Япония.
+
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="946">
+        <name>Ремкомплект г/ц рукояти 31Y1-18411 для Hyundai R450LC-7</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>31Y1-18411</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц рукояти 31Y1-18411 для Hyundai R450LC-7
+ 
+ В наличии на складе."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="6438">
+        <name>Подкладка СК65 (8,3кг) бу в городе Санкт-Петербург</name>
+        <vendor>null</vendor>
+        <vendorCode>СК65</vendorCode>
+        <price>185000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Санкт-Петербург
+Подкладка СК65 (8,3кг) бу
+
+Комплект скреплений кб50 на шпалу жб ш1: 4 закладных болта в сборе+ 4 клеммных болта в сборе с клеммой пк + 2 кб50 + 2 цп328 + 2 цп143 бу
+Подкладка д24 (1,86кг) литая
+Подкладка д43 (5,26кг) литая
+Подкладка ск50 (8,3кг) бу
+Подкладка кб65 (6,85кг) литая
+Подкладка д43 (5,26кг)]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1025">
+        <name>Ремкомплект г/ц стрелы 14589143 на Volvo EC460BLC</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>14589143</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект гидроцилиндра стрелы 14589143 на Volvo EC460BLC
+
+Каталожный номер: VOE 14589143
+
+Оригинал
+
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1397">
+        <name>Ступица (корпус бортового редуктора) CARRARO 066993 (064174)</name>
+        <vendor>CARRARO</vendor>
+        <vendorCode>066993 (064174)</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ступица (корпус бортового редуктора) 066993 (064174) CARRARO
+На складе в Екатеринбурге. 
+
+Номера-замены:
+
+87710170
+11709489
+S06/40343
+064174"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1094">
+        <name>Ремкомплект г/ц ковша CAT E330CL</name>
+        <vendor>CAT</vendor>
+        <vendorCode>215-9988</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц ковша CAT E330CL 215-9988
+Оригинал. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="495">
+        <name>Стекло лобовое верхнее (триплекс) K1033880 DOOSAN / DAEWOO DX140-DX520 серия DX</name>
+        <vendor>DOOSAN / DAEWOO</vendor>
+        <vendorCode>K1033880</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Стекло лобовое верхнее (триплекс) K1033880
+ 
+ DOOSAN / DAEWOO DX140-DX520 серия DX"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1386">
+        <name>Основная пара шестерен CARRARO 068471</name>
+        <vendor>CARRARO</vendor>
+        <vendorCode>068471</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Основная пара шестерен 068471 CARRARO
+На складе в Екатеринбурге. 
+
+Комплект!!!!! 
+
+Номера-замены:
+
+068471
+84190375
+11716626"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1393">
+        <name>Сальник полуоси со стороны колеса CARRARO 641735</name>
+        <vendor>CARRARO</vendor>
+        <vendorCode>641735</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Сальник полуоси со стороны колеса 641735 CARRARO
+CARRARO
+На складе в Екатеринбурге. 
+
+Номера-замены:
+
+CA0641735
+87685583
+11715254
+S06/41685
+87710145
+ER641735
+6194911M1
+ 
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="6589">
+        <name>Скоба упорная ЦП369.101(301) в городе Омск</name>
+        <vendor>null</vendor>
+        <vendorCode>ЦП369.101(301)</vendorCode>
+        <price>240.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Омск
+Скоба упорная ЦП369.101(301)
+
+Прокладка упругая жбр цп 369.104
+Анкер арс-04.04.005-03 
+Клемма арс - 04.04.001-01 (0,92кг)
+Скрепление жбр на металлическом упоре и шурупе
+Изолятор (уголок)арс-04.07.006 
+Регулировочный изолятор арс-04.07.006-12 (толщина 12мм)]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="971">
+        <name>Ремкомплект г/ц натяжителя NOK для Hyundai R480LC-9S</name>
+        <vendor>NOK</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем ремкомплект гидроцилиндра натяжителя на Hyundai R480LC-9S.
+ 
+ Производство: NOK.
+ 
+ В наличии на складе."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="773">
+        <name>Ремкомплект г/ц ковша Doosan 2440-9139KT</name>
+        <vendor>Doosan</vendor>
+        <vendorCode>2440-9139KT</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц ковша 2440-9139KT для спецтехники Doosan: S280LC-III
+
+Оригинал. В наличии
+
+Основные атрибуты
+Тип техники	Землеройная техника
+Производитель  	Doosan
+Страна производитель	Южная Корея
+Код запчасти	2440-9139KT"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="894">
+        <name>Ремкомплект г/ц ковша Hitachi ZX330 9175564</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>9175564</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц ковша 9175564 на Hitachi ZX330
+
+Аналоги: 9154896
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX330:
+Ремкомплект г/ц стрелы 9180581
+Ремкомплект г/ц рукояти 9180582
+Ремкомплект г/ц ковша 9175564
+
+Оригинал.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1226">
+        <name>Датчик давления масла Kobelco LC52S00012P1</name>
+        <vendor>Kobelco</vendor>
+        <vendorCode>LC52S00012P1</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Датчик давления масла Kobelco LC52S00012P1
+В наличии в Екатеринбурге.
+
+ Номера аналогов:
+
+8607307"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1231">
+        <name>Датчик давления топливной рампы Hitachi</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>8973186840</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Датчик давления топливной рампы Hitachi, Komatsu 8973186840
+В наличии в Екатеринбурге.
+
+ Номера аналогов:
+
+8981197900, 8973186841, ND499000-6131, ND499000-6160, ND499000-4441, ND499000-6141"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1215">
+        <name>Втулка 11883857, 11988260 для экскаваторов-погрузчиков Volvo</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>11883857, 11988260</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Втулка 11883857, 11988260
+Данные изделия применяются для соединений подвижных элементов рабочего оборудования на экскаваторах-погрузчиках Volvo. Настоятельно рекомендуем связаться с нашими менеджерами и подобрать нужную Вам деталь через проверку по каталогам запасных частей. 
+
+Применение: экскаваторы-погрузчики BL60, BL60B, BL61, BL61B, BL61PLUS, BL70, BL70B, BL71, BL71B, BL71PLUS Volvo (Вольво)"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="10988">
+        <name>Монитор ACER AL1717Asm 17 дюймов</name>
+        <vendor>ACER</vendor>
+        <price>900.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>123</categoryId>
+        <description><![CDATA[Монитор ACER AL1717Asm  17 дюймов 5/4; 1280 Х 1024 разрешение 76 герц; 220 вольт питание, VGA вход звук джек 3,5 мм. 2 динамика по 1вату; экранное меню; есть 1 штука.]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="8876">
+        <name>Накладка переходная р65/р50 (38кг)</name>
+        <vendor>null</vendor>
+        <price>9000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Красноярск
+Накладка переходная р50/р43 (38 кг) литая
+
+Накладка 2р65 (23,78 кг)
+Накладка трамвайная т62 (32кг)
+Накладки переходные р65/т62
+Накладка 1р18 (3,2кг) бу
+Накладка рс3 (3,47кг)
+Накладка переходная р65/р50 (38кг)
+Накладка 1р65 фрезерованная]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1090">
+        <name>Ремкомплект г/ц ковша (стрелы, рукояти) 199-7416 CAT 322C FM, 320B L 325C</name>
+        <vendor>CAT</vendor>
+        <vendorCode>199-7416</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц ковша (стрелы, рукояти)199-7416
+
+Оригинал. В наличии
+
+CAT 322C FM, 320B L, 322C, 325B L, 320B, 325B LN, 330B L, 320B S, 330, 330 L, 322B LN, 330B LN, 320B N, 322B L, 325C 7Y4698
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="15725">
+        <name>Запасные части к вилочным погрузчикам</name>
+        <vendor>null</vendor>
+        <price>1.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Компания "Механикус" - профильная компания по оказанию услуг в сфере поставки, ремонта и технического обслуживания вилочных погрузчиков.
+Предлагаем широкий выбор запасных частей для вилочных погрузчиков и складской техники.
+Доступные цены. Гарантия качества. Быстрые сроки поставки.
+Запасные части к вилочным погрузчикам- Широкий ассортимент комплектующих к вилочным погрузчикам и складской техники
+Ремонт вилочных погрузчиков- Капитальный ремонт ДВС, КПП, мачты, ТНВД, тормозной системы и пр.
+Техническое обслуживание вилочных погрузчиков - Гарантийное и пост гарантийное обслуживание вилочных погрузчиков
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="6715">
+        <name>Регулировочный изолятор APC-04.07.006-07 (толщина 7мм)</name>
+        <vendor>APC</vendor>
+        <vendorCode>04.07.006-07</vendorCode>
+        <price>50.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Москва
+РЕГУЛИРОВОЧНЫЙ ИЗОЛЯТОР АРС-04.07.006-07 (ТОЛЩИНА 7ММ) 
+
+Прокладка арс цп-04.07.003 
+Монорегулятор арс-04.04.007 (0,35кг)
+Вставка направляющая вп 920.1280
+Скрепление жбр-65ш на пластиковом упоре и закладном болте]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="856">
+        <name>Ремкомплект г/ц стрелы Hitachi ZX230</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>9207058</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц стрелы Hitachi ZX230 9207058
+
+Каталожные № аналогов  (4650419,  4485612, 4662069, YA00006590)
+
+Аналог. Япония. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1027">
+        <name>Ремкомплект гидроцилиндра Volvo 14589156</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>14589156</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект гидроцилиндра Volvo 14589156
+
+Volvo EC290BLC 14589156
+
+Оригинал. В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="16416">
+        <name>Сплит-система JAX ACY-09HE инверторная, 25 кв.м</name>
+        <vendor>JAX</vendor>
+        <vendorCode>ACY-09HE</vendorCode>
+        <price>24000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>120</categoryId>
+        <description><![CDATA[Сплит-система. Инверторный настенный кондиционер. JAX ACY-09HE, белый, полный охват охлаждения площади 25 квМ, режимы: обогрев, охлаждение, мощность в режиме охлаждения 2,5 кВт. Антикоррозийное покрытие, автоочистка, регулировка направления воздушного потока, климат-контроль. Средняя цена кондиционера по Москве - 38000 рублей. Причина продажи, не подошёл.]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="7912">
+        <name>Подкладка СД50 (6,5кг) бу</name>
+        <vendor>null</vendor>
+        <vendorCode>СД50</vendorCode>
+        <price>200000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Омск
+Подкладка СД50 резерв
+
+Подкладка д24 (1,86кг) бу
+Подкладкка сд50 (6,5кг) бу
+Подкладка д18 (1,81 кг) бу]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="250">
+        <name>Водяной насос Hitachi 1136501333 (6HK1)</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>1136501333</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Продается Водяной насос 1136501333 (6HK1) Hitachi
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1138">
+        <name>Генератор Volvo 21805948</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>21805948</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Продается Генератор Volvo 21805948. Стартеры и генераторы на все виды дорожно-строительной техники. Широкий ассортимент в наличии на складе. Цены уточняйте у менеджеров.
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1441">
+        <name>Крыльчатка вентилятора 11882519</name>
+        <vendor>null</vendor>
+        <vendorCode>11882519</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Крыльчатка вентилятора 11882519 для Volvo.
+В наличии и под заказ
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="867">
+        <name>Ремкомплект гидрораспределителя Hitachi 4S00689 Hitachi ZX330-1, ZX330-3G, ZX350-3G, ZX360-3G</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4S00689</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект гидрораспределителя 4S00689
+Hitachi ZX330-1, ZX330-3G, ZX350-3G, ZX360-3G
+
+Оригинал. В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1273">
+        <name>Подушка двигателя задняя 4628977 / 4628983</name>
+        <vendor>null</vendor>
+        <vendorCode>4628977 / 4628983</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Подушка двигателя задняя 4628977 / 4628983.
+
+Запчасти на все виды дорожно-строительной техники. Широкий ассортимент в наличии на складе. Цены уточняйте у менеджеров.
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="660">
+        <name>Ремкомплект г/ц рукояти Komatsu 707-99-35590</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>707-99-35590</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем ремкомплект г/ц рукояти 707-99-35590 для спецтехники:
+
+Оригинал. В наличии
+
+Komatsu WB93R-5E0, WB93S-5E0, WB93R-5, WB91R-5, WB91R-5E0
+
+Основные атрибуты
+Тип техники Землеройная техника
+Производитель   Komatsu
+Страна производитель Япония
+Код запчасти 707-99-35590"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="965">
+        <name>Ремкомплект г/ц рукояти 31Y1-35451 на R480LC-9S</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>31Y1-35451</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект гидроцилиндра рукояти 31Y1-35451 на Hyundai R480LC-9S
+
+Оригинал.
+
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="5138">
+        <name>Сходни ГКА 300.40.2/3</name>
+        <vendor>ГКА</vendor>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Сходни ГКА 300.40.2/3
+Грузоподъёмность до 1100 кг/на пару
+Длина 3000 мм
+Ширина 400 мм
+Собственный вес 19,5 кг/шт.
+Срок изготовления от 3 дней
+ ]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1417">
+        <name>Бачок расширительный 16254455</name>
+        <vendor>null</vendor>
+        <vendorCode>16254455</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Бачок расширительный 16254455, в наличии, в Екатеринбурге.
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1423">
+        <name>Болт 949824</name>
+        <vendorCode>949824</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Болт 949824, в наличии, в Екатеринбурге.
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="5283">
+        <name>Аппарели ГКА 2460 Грузоподъёмность 60000 кг</name>
+        <vendor>null</vendor>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Аппарели ГКА 2460
+Грузоподъёмность 60000 кг/на пару
+Длина 2400 мм
+Ширина 600 мм
+Вес одной штуки 95 кг
+Срок изготовления от 14 р/д
+Гарантия 12 месяцев
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1710">
+        <name>Рукоять телескопическая NOK 878000388</name>
+        <vendor>NOK</vendor>
+        <vendorCode>878000388</vendorCode>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Р/к г/ц выдвижения телескопической рукояти NOK 878000388.
+Цены уточняйте у наших менеджер.
+В наличии и на заказ, возможна доставка в регионы."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1031">
+        <name>Ремкомплект г/ц рукояти 14625659 на Volvo EC460BLC</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>14625659</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект гидроцилиндра рукояти 14625659 на Volvo EC460BLC
+
+Каталожный номер: VOE 14625659 , VOE14625659 , 14625659
+
+Оригинал
+
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1061">
+        <name>Ремкомплект г/ц ковша CAT 325C; 325CL; 330CL NOK</name>
+        <vendor>NOK</vendor>
+        <vendorCode>200-3315</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц ковша CAT 325C; 325CL; 330CL             200-3315
+Аналог. Япония.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="516">
+        <name>Фара основного освещения UDS-007 (CAT, Terex)</name>
+        <vendor>UDS</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Фара основного освещения UDS-007 (CAT, Terex) Заднее крепление (Усиленная)
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="771">
+        <name>Ремкомплект г/ц стрелы Doosan 2440-9136KT</name>
+        <vendor>Doosan</vendor>
+        <vendorCode>2440-9136KT</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц стрелы 2440-9136KT для спецтехники Doosan: S280LC-III
+
+Оригинал. В наличии
+
+Основные атрибуты
+Тип техники	Землеройная техника
+Производитель  	Doosan
+Страна производитель	Южная Корея
+Код запчасти	2440-9136KT"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="836">
+        <name>Ремкомплект г/ц стрелы 4649049 на Hitachi ZX330-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4649049</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц стрелы 4649049 на Hitachi ZX330-3
+
+Аналоги: YA00006596
+
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX330-3:
+
+Ремкомплект г/ц стрелы 4649049
+Ремкомплект г/ц рукояти 4649051
+Ремкомплект г/ц ковша 4649053
+
+Аналог. Япония. 
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="630">
+        <name>Ремкомплект г/ц рукояти 707-99-67090 на Komatsu PC300-7</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>707-99-67090</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц рукояти 707-99-67090 на Komatsu PC300-7
+
+Аналог. Япония
+
+
+В наличии на складе.
+
+Основные атрибуты
+Тип техники Землеройная техника
+Производитель   Komatsu
+Страна производитель Япония
+Код запчасти 707-99-67090"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1111">
+        <name>Ремкомплект г/ц ковша CAT E320 350-0967</name>
+        <vendor>CAT</vendor>
+        <vendorCode>350-0967</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц ковша CAT E320 350-0967
+
+Оригинал. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1712">
+        <name>Датчик давления Komatsu 7861-92-1610</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>7861-92-1610</vendorCode>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Р/к г/ц перекоса ковша NOK 878000487.
+Цены уточняйте у наших менеджер.
+В наличии и на заказ, возможна доставка в регионы."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1044">
+        <name>Ремкомплект г/ц стабилизатора Volvo VOE15173447</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>VOE15173447</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Продаем ремкомплект г/ц стабилизатора VOE15173447 для спецтехники: Volvo BL61, Volvo BL71, Volvo BL61 PLUS, Volvo BL71 PLUS. В наличии на складе
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1433">
+        <name>Гайка 971099</name>
+        <vendor>null</vendor>
+        <vendorCode>971099</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Гайка 971099, в наличии, в Екатеринбурге.
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="11377">
+        <name>Корчеватель кустов</name>
+        <vendor>null</vendor>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Завод ковшей предлагает корчеватель кустов на подшипниках. Смазывать раз в полгода.
+Также вы можете заказать корчеватель усиленный-смазка не нужна вообще.
+Производим роторный просеивающий ковш.
+Также есть барабанные просеивающие ковши. Производим на экскаваторы и экс-погрузчики. Объем от 0.3 м3 до 5.4 м3.
+
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="317">
+        <name>Мотор отопителя для Hitachi ZAX200-3 ZAX240-3 ZAX330-3</name>
+        <vendor>Hitachi</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Мотор отопителя для Hitachi ZAX200-3 ZAX240-3 ZAX330-3 в наличии. Звоните, уточняйте. Наши специалисты готовы проконсультировать вас в любое время.
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="605">
+        <name>Рemкoмплeкт г/ц кoвша Komatsu PC200-7 707-99-46120 1.8 м</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>707-99-46120</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["1.8 м Peмкoмплeкт  г/ц кoвша Komatsu PC200-7 707-99-46120
+Аналог. Япония. В наличии.
+
+Основные атрибуты
+Тип техники Землеройная техника
+Производитель   Komatsu
+Страна производитель Япония
+Код запчасти 707-99-46120"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="292">
+        <name>Измеритель уровня топлива Hyundai 31N6-02600</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>31N6-02600</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Измеритель уровня топлива (200 мм) 31N6-02600 для экскаваторов Hyundai.
+ 
+ Применяемость:
+ Hyundai R110-7
+ Hyundai R110-7A
+ Hyundai R1200-9
+ Hyundai R140LC-7
+ Hyundai R140LC-7A
+ Hyundai R140W-7
+ Hyundai R140W-7A
+ Hyundai R160LC-7
+ Hyundai R160LC-7A
+ Hyundai R170W-7
+ Hyundai R170W-7A
+ Hyundai R180LC-7
+ Hyundai R180LC-7A
+ Hyundai R200W-7
+ Hyundai R200W-7A
+ Hyundai R210LC-7
+ Hyundai R210LC-7A
+ Hyundai R210LC-7H
+ Hyundai R210LC-9
+ Hyundai R210LC-9BC
+ Hyundai R210NLC-7
+ Hyundai R210NLC-7A
+ Hyundai R210NLC-9
+ Hyundai R210W-9
+ Hyundai R210W-9S
+ Hyundai R235LCR-9
+ Hyundai R250LC-7
+ Hyundai R250LC-7A
+ Hyundai R250LC-9
+ Hyundai R260LC-9S
+ Hyundai R27Z-9
+ Hyundai R290LC-7
+ Hyundai R290LC-7A
+ Hyundai R290LC-9
+ Hyundai R300LC-7
+ Hyundai R300LC-9S
+ Hyundai R300LC-9SH
+ Hyundai R305LC-7
+ Hyundai R320LC-7
+ Hyundai R320LC-7A
+ Hyundai R320LC-9
+ Hyundai R330LC-9S
+ Hyundai R35-7Z
+ Hyundai R35Z-7A
+ Hyundai R35Z-9
+ Hyundai R360LC-7
+ Hyundai R360LC-7A
+ Hyundai R360LC-9
+ Hyundai R370LC-7
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="873">
+        <name>Ремкомплект г/ц ковша 1102306 на Hitachi ZX200-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>1102306</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[м"Ремкомплект г/ц ковша 1102306 на Hitachi ZX200-3
+
+
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX200-3:
+
+Ремкомплект г/ц стрелы 4661485
+Ремкомплект г/ц рукояти 4654422
+Ремкомплект г/ц ковша 1102306
+
+Оригинал. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="383">
+        <name>Помпа водяная Hyundai XJAF-02693</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>XJAF-02693</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Помпу водяную XJAF-02693 (32B45-05021) Hyundai R170W-7 , Hyundai R160LC-7 , Hyundai R180LC-7
+ 
+ В наличии и под заказ."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="907">
+        <name>Ремкомплект г/ц рукояти 31Y1-15230 на Hyundai R210LC-7</name>
+        <vendor>NOK</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект гидроцилиндра рукояти 31Y1-15230 на Hyundai R210LC-7
+
+Аналог. Япония
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="6526">
+        <name>Накладка РС3 (3,47кг)</name>
+        <vendor>null</vendor>
+        <price>850.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Пермь
+Накладка РС3 (3,47кг)
+
+Накладка 1р65 фрезерованная
+Накладка 1р24 (3,3кг бу, 4.4кг новые) литая
+Накладка 1р33 (6,26)
+Накладка переходная р65/р50 (38кг)
+Накладка 1р18 (3,2кг) восстановленная
+Накладка 2р65 (23,78 кг)
+Накладка 1р50 (18,77 кг) восстановленная]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="931">
+        <name>Ремкомплект г/ц рукояти 31Y1-35451 на Hyundai R480LC-9S</name>
+        <vendor>NOK</vendor>
+        <vendorCode>31Y1-35451</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект гидроцилиндра рукояти 31Y1-35451 на Hyundai R480LC-9S
+
+Аналог. Япония
+
+В наличии на складе.
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1087">
+        <name>Ремкомплект г/ц рукояти CAT E325 E330L</name>
+        <vendor>CAT</vendor>
+        <vendorCode>116-3649</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц рукояти CAT E325 E330L 116-3649
+Оригинал. В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="6457">
+        <name>Подкладка ЖБР-М (6,85кг)</name>
+        <vendor>null</vendor>
+        <price>150000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Санкт-Петербург
+Подкладка ЖБР-М (6,85кг)
+
+Подкладка д24 (1,86кг) литая
+Комплект скреплений кб50 на шпалу жб ш1: 4 закладных болта в сборе+ 4 клеммных болта в сборе с клеммой пк + 2 кб50 + 2 цп328 + 2 цп143
+Подкладка ск50 (8,3кг) бу
+Подкладка д65 (7,66кг)
+Подкладка кд50 (9,7 кг) бу
+Подкладкадн6-65 (8,44кг) литая]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1179">
+        <name>Втулка 11883769 Volvo</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>11883769</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Втулка 11883769
+Данные изделия применяются для соединений подвижных элементов рабочего оборудования на экскаваторах-погрузчиках Volvo. Настоятельно рекомендуем связаться с нашими менеджерами и подобрать нужную Вам деталь через проверку по каталогам запасных частей. 
+ 
+ Применение: экскаваторы-погрузчики BL60, BL60B, BL61, BL61B, BL61PLUS, BL70, BL70B, BL71, BL71B, BL71PLUS Volvo (Вольво)"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="757">
+        <name>Ремкомплект г/ц ковша Doosan K9002068</name>
+        <vendor>Doosan</vendor>
+        <vendorCode>K9002068 (401107-00324A)</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц ковша K9002068 (401107-00324A) для спецтехники Doosan: DX420LC
+
+Аналог. Япония. В наличии
+
+Характеристики
+Основные атрибуты
+Тип техники	Землеройная техника
+Производитель  	Doosan
+Страна производитель	Южная Корея
+Код запчасти	K9002068 (401107-00324A)"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1192">
+        <name>Палец Volvo 11882677</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>11882677</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Палец 11882677
+Данные изделия применяются для соединений подвижных элементов рабочего оборудования на экскаваторах-погрузчиках Volvo. Настоятельно рекомендуем связаться с нашими менеджерами и подобрать нужную Вам деталь через проверку по каталогам запасных частей. 
+ 
+ Применение: экскаваторы-погрузчики BL60, BL60B, BL61, BL61B, BL61PLUS, BL70, BL70B, BL71, BL71B, BL71PLUS Volvo (Вольво)"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="6536">
+        <name>Накладка 1р65 (29,5 кг) бу</name>
+        <vendor>null</vendor>
+        <price>85000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Пермь
+Накладка 1 р65 (29,5 кг) бу
+
+Накладка переходная р50/р43 (38 кг) литая
+Накладка 1р50 (18,77 кг) резерв
+Накладка 2р65 (23,78 кг) бу
+Накладка 1р33 (6,26) литая]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="7153">
+        <name>Скрепление АРС-4 на 1 шпалу (без анкера, на прокладке старого образца ЦП204 АРС)</name>
+        <vendor>ЦП204</vendor>
+        <price>1324.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Поставка любых материалов в город Брянск
+Скрепление АРС-4 на 1 шпалу (без анкера, на прокладке старого образца ЦП204 АРС)
+
+Прокладка жбр цп538 (цп 204)
+Регулировочный изолятор арс-04.07.006-05 (толщина 5мм)
+Регулировочный изолятор арс-04.07.006-10 (толщина 10мм)]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="352">
+        <name>Насос Caterpillar 126-2083</name>
+        <vendor>Caterpillar</vendor>
+        <vendorCode>126-2083</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Насос 126-2083 для экскаваторов Caterpillar
+ 
+ В наличии на складе."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="849">
+        <name>Ремкомплект ковша Hitachi 4660570</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4660570</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект ковша 4660570 Hitachi ZX330-3G
+
+Аналог. Япония. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="978">
+        <name>Ремкомплект натяжителя Hyundai R160LC-7, R170W-7</name>
+        <vendor>Hyundai</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект натяжителя Hyundai R160LC-7, R170W-7
+ В наличии на складе"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="880">
+        <name>Ремкомплект г/ц стрелы 4649049 на Hitachi ZX330-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4649049</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц стрелы 4649049 на Hitachi ZX330-3
+
+Аналоги: YA00006596
+
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX330-3:
+
+Ремкомплект г/ц стрелы 4649049
+Ремкомплект г/ц рукояти 4649051
+Ремкомплект г/ц ковша 4649053
+
+Оригинал.  В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="11580">
+        <name>Обивочная ткань для дивана Вельвет</name>
+        <vendor>null</vendor>
+        <price>1000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>120</categoryId>
+        <description><![CDATA[Мы предлагаем более 1000 образцов обивочной ткани нашим Заказчикам. И там действительно есть, из чего выбрать😉 Но сегодня мы хотим рассказать вам о трех наиболее популярных вариантах обивки для дивана в гостиную👇
+
+◼️ Вельвет – воплощение элегантности и роскоши. Эта ткань известна своей мягкостью и бархатистой текстурой, которые придадут вашему дивану изысканность и шарм. Вельветовая обивка прекрасно сочетается с различными стилями интерьера и создает атмосферу уюта. Кроме того, вельвет является прочным и долговечным материалом, который не боится когтей домашних животных и прослужит вам многие годы. 
+
+◼️ Флок – отличный выбор для тех, кто хочет добавить оригинальности и текстурности в свою гостиную. Флокированная ткань имеет короткое ворсовое покрытие и считается антивандальной. Этот материал отлично подходит для создания ярких акцентов и привносит в интерьер неповторимые оттенки и фактуры. Флок очень приятен на ощупь и придает уютную и стильную атмосферу.
+
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="842">
+        <name>Ремкомплект г/ц рукояти 4649752 на Hitachi ZX270-3</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4649752</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц рукояти 4649752 на Hitachi ZX270-3
+
+ 
+
+Аналоги: YA00001450, YA00010733
+
+Также в наличии на складе полный набор ремкомплектов на Hitachi ZX270-3:
+
+Ремкомплект г/ц стрелы 4649745
+Ремкомплект г/ц рукояти 4649752
+Ремкомплект г/ц ковша 4649751
+
+Аналог. Япония. В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="13037">
+        <name>Стабилизатор 2108-15</name>
+        <price>600.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA[Втулки живые. Ленинский район. Елшанка. Сообщения читаю очень редко. Звоните.]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="12291">
+        <name>Принтер Samsung SCX-4220</name>
+        <vendor>Samsung</vendor>
+        <price>3000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>124</categoryId>
+        <description><![CDATA[Продам принтер Б/У Samsung  SCX-4220]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="468">
+        <name>Стекло лобовое нижнее (триплекс) Hyundai 71N6-02710/71N6-02711</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>71N6-02710/71N6-02711</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Стекло лобовое нижнее (триплекс) Hyundai 71N6-02710/71N6-02711
+ 
+ Hyundai R140-R500 серия 7 и 7A"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="947">
+        <name>Ремкомплект г/ц стрелы 31Y1-18411 Hyundai R450LC-7</name>
+        <vendor>Hyundai</vendor>
+        <vendorCode>31Y1-18411</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц стрелы 31Y1-18411 Hyundai R450LC-7
+
+Оригинал.  В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="283">
+        <name>Датчик оборотов коленвала Hitachi 4657939</name>
+        <vendor>Hitachi</vendor>
+        <vendorCode>4657939</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Датчик оборотов коленвала 4657939
+ 
+ Каталожные номера:
+ 
+ 4657939
+ 8973061131 8-97306113-1
+ 
+ Применяемость:
+ Hitachi ZX200-3, ZX170W-3, ZX190W-3, ZX200LC-3, ZX210H-3, ZX210K-3, ZX210LCH-3, ZX210LCK-3, ZX210LCN-3, ZX210W-3, ZX240-3, ZX240LC-3, ZX240N-3, ZX250H-3, ZX250K-3, ZX250LC-3, ZX250LCH-3, ZX250LCK-3, ZX250LCN-3, ZX270-3, ZX270LC-3, ZX280LC-3, ZX280LCH-3, ZX280LCN-3, ZX330-3, ZX330LC-3, ZX350H-3, ZX350K-3, ZX350LC-3, ZX350LCH-3, ZX350LCK-3, ZX350LCN-3, ZX450-3, ZX450LC-3, ZX470H-3, ZX470LCH-3, ZX470LCR-3, ZX470R-3, ZX520LC-3, ZX520LCH-3, ZX520LCR-3, ZX650LC-3, ZX670LCH-3, ZX670LCR-3, ZX850-3, ZX850LC-3, ZX870H-3, ZX870LCH-3, ZX870LCR-3, ZX870R-3 и др.
+ 
+ В наличии на складе."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1335">
+        <name>Фильтр гидравлический John Deere RE273801, RE198381</name>
+        <vendor>John Deere</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Фильтр гидравлический John Deere RE273801, RE198381
+
+В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1180">
+        <name>Втулка 11883770 Volvo</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>11883770</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Втулка 11883770
+Данные изделия применяются для соединений подвижных элементов рабочего оборудования на экскаваторах-погрузчиках Volvo. Настоятельно рекомендуем связаться с нашими менеджерами и подобрать нужную Вам деталь через проверку по каталогам запасных частей. 
+ 
+ Применение: экскаваторы-погрузчики BL60, BL60B, BL61, BL61B, BL61PLUS, BL70, BL70B, BL71, BL71B, BL71PLUS Volvo (Вольво)"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="983">
+        <name>Ремкомплект г/ц стрелы Volvo EC180BLC</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>14589127</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц стрелы 14589127 Volvo EC180BLC
+
+Аналог. Япония. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="19290">
+        <name>Активный сабвуфер Tannoy Power VS10BP</name>
+        <vendor>Tannoy</vendor>
+        <vendorCode>VS10BP</vendorCode>
+        <price>55000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>121</categoryId>
+        <description><![CDATA[возможен обмен на видеокамеру хорошую. Активный сабвуфер Tannoy Power VS10BP  практически новый стоял в комплекте с домашним кинотеатром. Пользовались мало. обеспечивает высокий уровень точности воспроизведения и качества звучания. Модель комплектуется эффективным и надежным интегрированным усилителем класса D, а также встроенным блоком питания.  Благодаря тому, что эта активная система объединяет в себе усилитель, кроссовер и DSP-процессор, отсутствует необходимость применения бесчисленного количества кабелей, что значительно упрощает процедуру инсталляции.
+Благодаря совмещению в единую систему эффективного модуля усиления с малым теплообразованием, системы защиты от перегрузок, а также модуля эквализации, даже на самой большой громкости PowerVS 10 BP способен выдавать чистый и неискаженный звук. 
+Функциональные особенности:
+Высокоэффективный цифровой усилитель мощности класса D
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="991">
+        <name>Ремкомплект гидроцилиндра Volvo 14589138</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>14589138</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект гидроцилиндра Volvo 14589138
+
+EC290BLC
+
+АНалог. Япония. В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="267">
+        <name>Втулка Komatsu 424-70-11770</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>424-70-11770</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Komatsu втулка 424-70-11770
+ 
+ Komatsu 538, 542, WA350, WA380, WA380Z, WA420, WA430"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="606">
+        <name>Рeмкoмплeкт г/ц стрелы 707-99-46130 на PC200-7</name>
+        <vendor>Komatsu</vendor>
+        <vendorCode>707-99-46130</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Peмкoмплeкт  г/ц стрелы 707-99-46130 на Komatsu PC200-7
+
+Аналог, Япония, В наличии
+
+Основные атрибуты
+Тип техники Землеройная техника
+Производитель   Komatsu
+Страна производитель Япония
+Код запчасти 707-99-46130"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1030">
+        <name>Ремкомплект гидроцилиндра Volvo 14589732</name>
+        <vendor>Volvo</vendor>
+        <vendorCode>14589732</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект гидроцилиндра Volvo 14589732
+
+EW180
+
+Оригинал. В наличии
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1337">
+        <name>Фильтр гидравлический New Holland 9706161</name>
+        <vendor>New Holland</vendor>
+        <vendorCode>9706161</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продается Фильтр гидравлический New Holland 9706161, 89706161
+
+В наличии"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="376">
+        <name>Панель управления (переключатель) VOE 14594714 для Volvo</name>
+        <vendor>VOE</vendor>
+        <vendorCode>14594714</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Панель управления (переключатель) VOE 14594714 для Volvo.
+ 
+ Каталожные номера: VOE 14594714 , VOE14594714 , 14594714
+ 
+ Применяемость: Volvo EC120D , Volvo EC140D , Volvo EC160D , Volvo EC170D , Volvo EC180D , Volvo EC220D , Volvo EC250D , Volvo EC300D , Volvo EC350D , Volvo EC380D , Volvo EC480D , Volvo EC750D , Volvo ECR145D , Volvo ECR235D , Volvo EW140D , Volvo EW160D , Volvo EW180D , Volvo EW205D , Volvo EW210D и др."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="413">
+        <name>Редуктор хода Caterpillar 267-6796</name>
+        <vendor>Caterpillar</vendor>
+        <vendorCode>267-6796</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Редуктор хода 267-6796 на экскаваторы Caterpillar 325D , 329D
+ 
+ Каталожные номера: 267-6796 ( 2676796 ), 333-2909 ( 3332909 ), 199-4521 ( 1994521 ), 378-9567 ( 3789567 ).
+ 
+ В наличии на складе и под заказ."
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1425">
+        <name>Болт 965197</name>
+        <vendor>null</vendor>
+        <vendorCode>965197</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Болт 965197, в наличии, в Екатеринбурге.
+
+"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="491">
+        <name>Стекло лобовое нижнее (триплекс) 903-00074A DOOSAN / DAEWOO DX140-DX520 серия DX</name>
+        <vendor>DOOSAN / DAEWOO</vendor>
+        <vendorCode>903-00074A</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Стекло лобовое нижнее (триплекс) 903-00074A
+ 
+ DOOSAN / DAEWOO DX140-DX520 серия DX"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="1118">
+        <name>Ремкомплект г/ц. подъема стрелы ЭО-5221 ЭО-5225</name>
+        <vendor>ЭО</vendor>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Ремкомплект г/ц. подъема стрелы №1 ЭО-5221 ЭО-5225
+ 
+ В наличии на складе"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+      <offer id="817">
+        <name>Ремкомплект г/ц ковша Doosan K9002306</name>
+        <vendor>Doosan</vendor>
+        <vendorCode>K9002306 (401107-00155A)</vendorCode>
+        <price>111.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>87</categoryId>
+        <description><![CDATA["Продаем Ремкомплект г/ц ковша K9002306 (401107-00155A) для спецтехники Doosan:
+
+DX140LC, DX140LC-3, DX140LCR, DX140LCR-3, DX140W, DX160W, DX170W, DX180LC, DX180LC-3, DX190W-3
+
+Оригинал. В наличии
+
+Характеристики
+Основные атрибуты
+Тип техники	Землеройная техника
+Производитель  	Doosan
+Страна производитель	Южная Корея
+Код запчасти	K9002306 (401107-00155A)"
+]]></description>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <weight>0.0</weight>
+        <condition type="preowned">
+          <quality>excellent</quality>
+        </condition>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
