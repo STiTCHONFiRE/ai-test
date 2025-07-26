@@ -60,7 +60,7 @@ public class YmlCatalogService {
                 .build();
     }
 
-    @EventListener(ApplicationReadyEvent.class)
+//    @EventListener(ApplicationReadyEvent.class)
     public void testRequest() {
         executor.execute(() -> {
             int size = 150; // Количество объявлений для обработки
@@ -135,7 +135,7 @@ public class YmlCatalogService {
                     .shop(shop)
                     .build();
 
-            Path outPath = Path.of("output", "yml_catalog.xml");
+            Path outPath = Path.of("output", "yml_catalog.yml");
             try {
                 Files.createDirectories(outPath.getParent());
             } catch (IOException e) {
