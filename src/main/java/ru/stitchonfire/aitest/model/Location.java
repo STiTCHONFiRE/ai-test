@@ -52,7 +52,7 @@ public class Location {
     @ManyToMany(mappedBy = "locations")
     private Set<Announcement> announcements = new LinkedHashSet<>();
 
-    @OneToMany(mappedBy = "parent")
+    @OneToMany(mappedBy = "parent", fetch = FetchType.EAGER)
     private Set<Location> locations = new LinkedHashSet<>();
 
     @OneToMany(mappedBy = "location")

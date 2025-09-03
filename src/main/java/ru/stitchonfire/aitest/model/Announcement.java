@@ -96,7 +96,7 @@ public class Announcement {
     @OneToMany(mappedBy = "announcement")
     private Set<AnnouncementResource> announcementResources = new LinkedHashSet<>();
 
-    @OneToMany(mappedBy = "announcement")
+    @OneToMany(mappedBy = "announcement", fetch = FetchType.EAGER)
     private Set<AvailableSiteUrl> availableSiteUrls = new LinkedHashSet<>();
 
 }
